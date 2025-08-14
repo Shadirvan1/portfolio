@@ -144,7 +144,7 @@ body {
   height: 500px;
   box-shadow: 10px 10px 30px black;
   position: relative;
-  background-image: url(./photos/img.webp);
+  background-image: url(./img.webp);
   background-size: cover;
 }
 
@@ -763,3 +763,4 @@ a:active {
     height: 3200px;
   }
 }
+
