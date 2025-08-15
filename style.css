@@ -806,6 +806,11 @@ a:active {
     display: none;
   }
 }
+#developer{
+  z-index: 999;
+}
+
+
 
 
 
