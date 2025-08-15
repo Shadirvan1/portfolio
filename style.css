@@ -799,13 +799,14 @@ a:active {
   height: 400px;
   width: 800px;
   position: absolute;
-  right: 100px;
+  right: 10px;
 }
 @media (max-width:1000px){
   #mypic{
     display: none;
   }
 }
+
 
 
 
