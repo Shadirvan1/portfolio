@@ -793,4 +793,19 @@ a:active {
   }
 }
 
+#mypic{
+  top: 20px;
+  border-radius: 320px;
+  height: 400px;
+  width: 800px;
+  position: absolute;
+  right: 100px;
+}
+@media (max-width:1000px){
+  #mypic{
+    display: none;
+  }
+}
+
+
 
